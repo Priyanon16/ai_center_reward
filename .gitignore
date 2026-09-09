@@ -1,0 +1,8 @@
+# Local/server secrets
+config.php
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
